@@ -1,4 +1,4 @@
-# Akash-Kota
+# Akash Kota
 # Hi there, I'm Akash Kota! 👋  
 
 🚀 Aspiring Data Analyst & Data Engineer | MS Data Science @ UTA  
