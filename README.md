@@ -3,7 +3,7 @@
 
 🚀 Aspiring Data Analyst & Data Engineer | MS Data Science @ UTA  
 
-I build scalable data pipelines & automate analytics workflows to help teams move faster.  
+Graduate student in Data Science with strong foundation in statistics, machine learning, and big data analytics. Skilled in Python, R, SQL, and cloud platforms with experience delivering projects in forecasting, classification, and deep learning. Adept at extracting insights through data visualization and building end-to-end pipelines in collaborative environments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kotaakash/)  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:Akash.kota@hotmail.com)  
 
